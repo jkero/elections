@@ -15,11 +15,27 @@ d) le nombre de sièges de région supplémentaires accordés à une région est
 '''# -*- coding: utf-8 -*-
 import csv
 
-#REQUIERT UN CSV TRIÉ PAR RÉGIONS ADMIN
 
+def tri_par_sous_liste(liste, index_quot):
+    ss = []
+    temp_region = ''
+    temp_max_region = 0
+#    print(len(liste))
+    for i in range(len(liste)):
+        ss = liste[i][5]
+        if ss and len(ss) >= index_quot+1:
+            if ss[index_quot] > temp_max_region:
+                temp_max_region = ss[index_quot]
+                temp_region = liste[i][1]
+    print("passe index " + str(index_quot) + " = " +  temp_region + " : " + str(temp_max_region))
+   
+  
+
+
+#REQUIERT UN CSV TRIÉ PAR RÉGIONS ADMIN
 def diviseurs(pop):
     resu = []
-    for i in range(2,20):
+    for i in range(2,400):
         c = pop/i
         for j in range(2,50000):
            # print(c)
@@ -128,4 +144,28 @@ print("***************  PAR LISTE DIVISEURS le plus haut en premier ?? *********
 stat.reverse()
 for j in range(len(stat)):
     print(stat[j])
-#divs(400)
+
+#comparaison de chaque index de chaque sous-chaine -> plus grabd gagne
+for i in range(25):
+    tri_par_sous_liste(stat,i)
+        
+        
+#        ss = stat[j][5]
+
+#        print(str(j) + "-- " + str(len(ss)))
+        #tri_par_sous_liste(stat,i)
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
