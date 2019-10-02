@@ -1,0 +1,96 @@
+Python 3.7.3 (default, Apr 24 2019, 15:29:51) [MSC v.1915 64 bit (AMD64)]
+Type "copyright", "credits" or "license" for more information.
+
+IPython 7.8.0 -- An enhanced Interactive Python.
+
+runfile('C:/Users/j/Documents/python_elections/el_quot_Hare.py', wdir='C:/Users/j/Documents/python_elections')
+
+ HARE Nombre de voix basé surle quotient électoral - 6 sièges à attribuer
+_____________________________________________________________________________________
+         Parti   Voix    Sièges Élus     Attrib.         Restes à calculer
+         A       42      2.0             0      8.666666666666664 
+         B       31      1.0             0      14.333333333333332 
+         C       15      0.0             1      15.0 
+         D       12      0.0             0      12.0 
+
+ HARE Nombre de voix basé surle quotient électoral - 6 sièges à attribuer
+_____________________________________________________________________________________
+         Parti   Voix    Sièges Élus     Attrib.         Restes à calculer
+         A       42      2.0             0      8.666666666666664 
+         B       31      1.0             1      14.333333333333332 
+         C       15      0.0             1      15.0 
+         D       12      0.0             0      12.0 
+
+ HARE Nombre de voix basé surle quotient électoral - 6 sièges à attribuer
+_____________________________________________________________________________________
+         Parti   Voix    Sièges Élus     Attrib.         Restes à calculer
+         A       42      2.0             0      8.666666666666664 
+         B       31      1.0             1      14.333333333333332 
+         C       15      0.0             1      15.0 
+         D       12      0.0             1      12.0 
+
+ Nombre de voix basé surle quotient électoral avec siège restants attribués selon QUOTIENT DE HARE
+_____________________________________________________________________________________
+         Parti   Voix    Sièges Élus     Sièges Dist.            Total
+         A       42              2.0             0               2.0  
+         B       31              1.0             1               2.0  
+         C       15              0.0             1               1.0  
+         D       12              0.0             1               1.0  
+
+runfile('C:/Users/j/Documents/python_elections/el_quot_Hondt.py', wdir='C:/Users/j/Documents/python_elections')
+
+ HONDT Nombre de voix basé surle quotient électoral - 6 sièges à attribuer
+_____________________________________________________________________________________
+A {'Voix': 42, 'sieges_e': 2.52, 'sieges_d': 1, 'q1': 14.0, 'dernier_tour': 3, 'q2': 14.0, 'q3': 14.0} Total = 3
+B {'Voix': 31, 'sieges_e': 1.86, 'sieges_d': 1, 'q1': 15.5, 'dernier_tour': 1, 'q2': 10.33, 'q3': 10.33} Total = 2
+C {'Voix': 15, 'sieges_e': 0.9, 'sieges_d': 1, 'q1': 15.0, 'dernier_tour': 2, 'q2': 15.0, 'q3': 7.5} Total = 1
+D {'Voix': 12, 'sieges_e': 0.72, 'sieges_d': 0, 'q1': 12.0, 'dernier_tour': 0, 'q2': 12.0, 'q3': 12.0} Total = 0
+Sièges restants = 0
+
+runfile('C:/Users/j/Documents/python_elections/elec_2018.py', wdir='C:/Users/j/Documents/python_elections')
+
+ HARE Nombre de sieges supp. basé sur le plus grand quotient électoral - 125 sièges à attribuer
+_____________________________________________________________________________________
+1 C.A.Q.-É.F.L. sieges: 74 v. 46 stats: % votes = 36.82 | sieges av. = %59.19 | sieges ap. = %36.8
+2 P.L.Q./Q.L.P. sieges: 31 v. 31 stats: % votes = 24.42 | sieges av. = %24.8 | sieges ap. = %24.8
+3 P.Q. sieges: 10 v. 21 stats: % votes = 16.78 | sieges av. = %8.0 | sieges ap. = %16.8
+4 Q.S. sieges: 10 v. 20 stats: % votes = 15.84 | sieges av. = %8.0 | sieges ap. = %16.0
+5 P.V.Q./G.P.Q. sieges: 0 v. 2 stats: % votes = 1.66 | sieges av. = %0.0 | sieges ap. = %1.6
+6 P.C.Q./C.P.Q. sieges: 0 v. 2 stats: % votes = 1.44 | sieges av. = %0.0 | sieges ap. = %1.6
+7 N.P.D.Q. sieges: 0 v. 1 stats: % votes = 0.559 | sieges av. = %0.0 | sieges ap. = %0.8
+8 C.P.Q. sieges: 0 v. 1 stats: % votes = 0.339 | sieges av. = %0.0 | sieges ap. = %0.8
+9 B.P. sieges: 0 v. 0 stats: % votes = 0.11 | sieges av. = %0.0 | sieges ap. = %0.0
+10 P.N. sieges: 0 v. 0 stats: % votes = 0.09 | sieges av. = %0.0 | sieges ap. = %0.0
+11 P.M.L.Q. sieges: 0 v. 0 stats: % votes = 0.04 | sieges av. = %0.0 | sieges ap. = %0.0
+12 P.L. sieges: 0 v. 0 stats: % votes = 0.04 | sieges av. = %0.0 | sieges ap. = %0.0
+13 É.A. sieges: 0 v. 0 stats: % votes = 0.03 | sieges av. = %0.0 | sieges ap. = %0.0
+14 P51 sieges: 0 v. 0 stats: % votes = 0.03 | sieges av. = %0.0 | sieges ap. = %0.0
+15 C.I.N.Q. sieges: 0 v. 0 stats: % votes = 0.02 | sieges av. = %0.0 | sieges ap. = %0.0
+16 A.P.Q. sieges: 0 v. 0 stats: % votes = 0.01 | sieges av. = %0.0 | sieges ap. = %0.0
+17 V.P. sieges: 0 v. 0 stats: % votes = 0.0 | sieges av. = %0.0 | sieges ap. = %0.0
+18 P.Cu.Q. sieges: 0 v. 0 stats: % votes = 0.0 | sieges av. = %0.0 | sieges ap. = %0.0
+19 IND. sieges: 0 v. 1 stats: % votes = 0.16 | sieges av. = %0.0 | sieges ap. = %0.8
+_____________________________________________________________________________________
+
+ HONDT Nombre de voix basé surle quotient électoral - 125 sièges à attribuer
+_____________________________________________________________________________________
+1 C.A.Q.-É.F.L. | sieges_av : 74 | sieges_ap : 46 Total = 48
+2 P.L.Q./Q.L.P. | sieges_av : 31 | sieges_ap : 30 Total = 32
+3 P.Q. | sieges_av : 10 | sieges_ap : 20 Total = 22
+4 Q.S. | sieges_av : 10 | sieges_ap : 19 Total = 20
+5 P.V.Q./G.P.Q. | sieges_av : 0 | sieges_ap : 2 Total = 2
+6 P.C.Q./C.P.Q. | sieges_av : 0 | sieges_ap : 1 Total = 1
+7 N.P.D.Q. | sieges_av : 0 | sieges_ap : 0 Total = 0
+8 C.P.Q. | sieges_av : 0 | sieges_ap : 0 Total = 0
+9 B.P. | sieges_av : 0 | sieges_ap : 0 Total = 0
+10 P.N. | sieges_av : 0 | sieges_ap : 0 Total = 0
+11 P.M.L.Q. | sieges_av : 0 | sieges_ap : 0 Total = 0
+12 P.L. | sieges_av : 0 | sieges_ap : 0 Total = 0
+13 É.A. | sieges_av : 0 | sieges_ap : 0 Total = 0
+14 P51 | sieges_av : 0 | sieges_ap : 0 Total = 0
+15 C.I.N.Q. | sieges_av : 0 | sieges_ap : 0 Total = 0
+16 A.P.Q. | sieges_av : 0 | sieges_ap : 0 Total = 0
+17 V.P. | sieges_av : 0 | sieges_ap : 0 Total = 0
+18 P.Cu.Q. | sieges_av : 0 | sieges_ap : 0 Total = 0
+19 IND. | sieges_av : 0 | sieges_ap : 0 Total = 0
+Sièges restants = 0
