@@ -10,6 +10,7 @@ Welcome to Elections proportionnelles's documentation!
    :maxdepth: 2
 
    Well_done
+   contents
 
 
 
