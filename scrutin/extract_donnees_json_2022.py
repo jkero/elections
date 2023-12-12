@@ -1,6 +1,8 @@
 """
+Extraction des valeurs pour calculs.
+
 En prévision de calculs généraux pour
-évaluer les différences en sièges
+évaluer et extraire les différences en sièges
 selon les modes de scrutin.
 
 Pour les recherches des modes de scrutin
@@ -48,6 +50,8 @@ class election():
 
         """
         self.basic()
+
+#        //todo: tous les modules qui calculent les représentations par type de scrutin
 
 if __name__ == "__main__":
     e = election()
