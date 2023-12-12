@@ -1,0 +1,7 @@
+elec\_2018 module
+=================
+
+.. automodule:: elec_2018
+   :members:
+   :undoc-members:
+   :show-inheritance:

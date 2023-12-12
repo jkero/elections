@@ -76,7 +76,7 @@ def tri_stat_pop_quot(liste):
 def lecture_fich():
     la_liste = []   
     la_liste_stat = []
-    with open('circonscriptions_regios_orig.csv', encoding="ISO-8859-1") as csv_file:
+    with open('../circonscriptions_regios_orig.csv', encoding="ISO-8859-1") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=';')      
         line_count = 0
         pop_cpt_region = 0
@@ -121,40 +121,41 @@ def lecture_fich():
 #        print("***************test***************")
         return la_liste_stat
 
-l = lecture_fich()
-stat = tri_stat_pop_quot(l)
+if __name__ == "__main__":
+    l = lecture_fich()
+    stat = tri_stat_pop_quot(l)
 
-#ajout des sous-listes des quotients entiers à la fin des enr. des régions
-# pas clair si les plus gros quotients vont déterminer le siege électoral
-for i in range(len(stat)):
-     dd = diviseurs(stat[i][4])
-     stat[i].append(dd)
-print("***************  PAR POP/CIRC ***************")
-#print résultat
-for j in range(len(stat)):
-    print(stat[j])
+    #ajout des sous-listes des quotients entiers à la fin des enr. des régions
+    # pas clair si les plus gros quotients vont déterminer le siege électoral
+    for i in range(len(stat)):
+         dd = diviseurs(stat[i][4])
+         stat[i].append(dd)
+    print("***************  PAR POP/CIRC ***************")
+    #print résultat
+    for j in range(len(stat)):
+        print(stat[j])
 
-#trier les résu selon plus grosse liste quotients TODO comment on compare ça ?
-for i in range(len(stat)):      
-    for j in range(i+1,len(stat)):
-        if stat[i][5] > stat[j][5]:
-            swap(stat,i,j)
-print("***************  PAR LISTE DIVISEURS le plus haut en premier ?? ***************")
-#trier âr plus grossse sours liste de quotients... ???
-stat.reverse()
-for j in range(len(stat)):
-    print(stat[j])
+    #trier les résu selon plus grosse liste quotients TODO comment on compare ça ?
+    for i in range(len(stat)):
+        for j in range(i+1,len(stat)):
+            if stat[i][5] > stat[j][5]:
+                swap(stat,i,j)
+    print("***************  PAR LISTE DIVISEURS le plus haut en premier ?? ***************")
+    #trier âr plus grossse sours liste de quotients... ???
+    stat.reverse()
+    for j in range(len(stat)):
+        print(stat[j])
 
-#comparaison de chaque index de chaque sous-chaine -> plus grabd gagne
-for i in range(25):
-    tri_par_sous_liste(stat,i)
-        
-        
-#        ss = stat[j][5]
+    #comparaison de chaque index de chaque sous-chaine -> plus grabd gagne
+    for i in range(25):
+        tri_par_sous_liste(stat,i)
 
-#        print(str(j) + "-- " + str(len(ss)))
-        #tri_par_sous_liste(stat,i)
-        
+
+    #        ss = stat[j][5]
+
+    #        print(str(j) + "-- " + str(len(ss)))
+            #tri_par_sous_liste(stat,i)
+
         
         
         

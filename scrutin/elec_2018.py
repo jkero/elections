@@ -17,7 +17,7 @@ sieges_restants = nb_sieges = 125
 def lecture_fich():
     le_sommaire = {}
     sieges = 0
-    with open('elect_2018.csv', encoding="ISO-8859-1") as csv_file:
+    with open('../elect_2018.csv', encoding="ISO-8859-1") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=';')      
         line_count = 0
         for row in csv_reader:
@@ -176,7 +176,8 @@ def init_HONDT():
  #   imprime_statuts_finaux_HONDT(p1)
     imprime_stats_HONDT(p1)
 
-init_HARE()
-init_HONDT()
+if __name__ == "__main__":
+    init_HARE()
+    init_HONDT()
 
 
