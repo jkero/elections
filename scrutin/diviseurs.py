@@ -17,5 +17,7 @@ def diviseurs(pop):
                
     resu.sort()
     print (resu)
-    
-diviseurs(67890)
+
+
+if __name__ == "__main__":
+    diviseurs(67890)

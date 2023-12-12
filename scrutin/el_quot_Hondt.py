@@ -140,8 +140,8 @@ def init_methode_HONDT():
 #        passe += 1
 #        cpt -= 1
    
-
-init_methode_HONDT()
+if __name__ == "__main__":
+    init_methode_HONDT()
     
     
     

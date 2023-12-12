@@ -31,9 +31,16 @@ release = '1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.autodoc',
-'sphinx.ext.viewcode','sphinx.ext.napoleon',
-]
+extensions = ['sphinx.ext.autodoc'
+    ,'sphinx.ext.viewcode'
+    ,'sphinx.ext.napoleon'
+    ,'linuxdoc.rstFlatTable'  # Implementation of the 'flat-table' reST-directive.
+    , 'linuxdoc.rstKernelDoc'  # Implementation of the 'kernel-doc' reST-directive.
+    , 'linuxdoc.kernel_include'  # Implementation of the 'kernel-include' reST-directive.
+    , 'linuxdoc.manKernelDoc'  # Implementation of the 'kernel-doc-man' builder
+    , 'linuxdoc.cdomain'  # Replacement for the sphinx c-domain.
+    , 'linuxdoc.kfigure'  # Sphinx extension which implements scalable image handling.
+  ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

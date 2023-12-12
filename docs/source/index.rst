@@ -10,6 +10,7 @@ Welcome to Elections proportionnelles's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   type_elections
    modules
 
 Indices and tables

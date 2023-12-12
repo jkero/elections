@@ -171,8 +171,8 @@ def c_sieges_restants(p):
     return nb_sieges - accu_sieges
   
   
-
-init_methode_HARE()    
+if __name__ == "__main__":
+    init_methode_HARE()
     
     
     
