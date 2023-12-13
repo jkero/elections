@@ -25,11 +25,10 @@ Lexique
       -  Scrutin majoritaire mixte
       -  Chaque électeur vote deux fois : une fois pour le candidat d'une circonscription à SMU et une fois pour la liste de parti. Dans le cadre du SMM complémentaire, on calcule le nombre de sièges de chaque parti en fonction du nombre de voix obtenues par les listes, puis on en retranche les sièges obtenus dans le cadre du SMU pour déterminer les sièges auxquels chaque parti a droit dans le cadre du scrutin de liste. Dans le cadre du SMM parallèle, les deux groupes de députés sont élus séparément, et leurs totaux combinés servent à attribuer les sièges à chaque parti.
 
+Notes
++++++
 
-.. rubric:: Footnotes
 
-.. [1] sources:
+.. [1]  https://www.elections.ca/content.aspx?section=res&dir=eim/issue1&document=p5&lang=f (Perspectivs électorales juin 1999)
 
-        * internet
-            * https://www.elections.ca/content.aspx?section=res&dir=eim/issue1&document=p5&lang=f (Perspectivs électorales juin 1999)
-            * https://fr.wikipedia.org/wiki/Scrutin_proportionnel_plurinominal
+        https://fr.wikipedia.org/wiki/Scrutin_proportionnel_plurinominal
