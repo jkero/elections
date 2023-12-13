@@ -1,6 +1,12 @@
 Les types d'élections [1]_
 ===========================
 
+Démocratie, systèmes électoraux [2]_ , etc.
++++++++++++++++++++++++++++++++++++++++++++
+
+Ce texte s'intéresse aux scrutins et à la représentativité électorale pour des systèmes démocratiques.
+
+
 .. todo::
 
     définir *scrutin uninominal*, *scrutin proportionnel plurinominal* (ou *représentation proportionnelle à scrutin de liste*), *Scrutin majoritaire plurinominal*, et les variantes.
@@ -108,3 +114,5 @@ Graphes: répartition de Hare (Quotient de Hare)
         MacIvor, Heather, *Système électoral proportionnel ou semi-proportionnel : effets possibles sur la politique canadienne* , 1999: https://www.elections.ca/res/rec/fra/sys/macivor_f.pdf
 
         https://publications.gc.ca/Collection-R/LoPBdP/BP/bp334-f.htm#1.%20Le%20scrutinmajoritairetourtxt
+
+.. [2] O'Neal, Brian, *Les systèmes électoraux*, Division des affaires politiques et sociales, Mai 1993 (BP-334F)
