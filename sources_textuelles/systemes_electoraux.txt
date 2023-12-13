@@ -1,0 +1,778 @@
+
+
+
+BP-334F
+
+
+
+LES SYSTÈMES ÉLECTORAUX
+
+Rédaction :
+Brian O'Neal
+Division des affaires politiques et sociales
+Mai 1993
+
+
+
+TABLE DES MATIÈRES
+
+
+
+INTRODUCTION :  L'IMPORTANCE DES SYSTÈMES ÉLECTORAUX
+
+LES ROUAGES DES SYSTÈMES ÉLECTORAUX
+
+   A.   Les systèmes majoritaires
+      1.  Le scrutin majoritaire uninominal à un tour
+      2.  Le scrutin majoritaire plurinominal
+      3.  Le scrutin majoritaire uninominal a majorité absolue
+         a.  Le vote préférentiel
+         b.  Le scrutin majoritaire à deux tours
+
+   B.   Les systèmes de représentation proportionnelle
+      1.  Le scrutin de liste
+         a.  Les variantes du scrutin de liste
+         b.  La répartition des sièges
+            a)  Le procédé des plus forts restes
+            b)  Le procédé de la plus forte moyenne (système de d'Hondt)
+            c)  Le procédé de la plus forte moyenne (systèmes de Sainte-Laguë et de Sainte-Laguë modifié)
+            d)  Combinaison des deux procédés
+      2.  Le vote unique transférable (VUT)
+
+   C.   Formule mixte
+
+AVANTAGES ET INCONVÉNIENTS DES DIFFÉRENTS SYSTÈMES
+
+LES SYSTÈMES MAJORITAIRES
+
+Le scrutin majoritaire uninominal à un tour
+
+Le scrutin majoritaire plurinominal
+
+Le scrutin majoritaire uninominal à majorité absolue
+
+LES SYSTÈMES DE REPRÉSENTATION PROPORTIONNELLE (RP)
+
+Le scrutin de liste
+
+Les variantes du scrutin de liste
+
+Le vote unique transférable
+
+RÉFÉRENDUMS SUR LA RÉFORME DES SYSTÈMES ÉLECTORAUX
+
+   A.  La Nouvelle-Zélande
+
+   B.   L'Italie
+
+CONCLUSION
+
+BIBLIOGRAPHIE SÉLECTIVE
+
+
+
+LES SYSTÈMES ÉLECTORAUX
+
+
+
+                Ils [les Canadiens et Canadiennes] sont insatisfaits de la façon dont les votes sont traduits en sièges au Parlement en vertu du système électoral actuel. On relève d'importantes différences selon les régions, les résidents de l'Alberta et du Québec considérant inacceptables les modalités actuelles. On doit souligner toutefois qu'une faible majorité seulement dans chaque région considère les rouages du présent système comme acceptables(1).
+
+
+
+INTRODUCTION : L'IMPORTANCE DES SYSTÈMES ÉLECTORAUX
+
+Bien qu'arides pour certains et mystérieux pour beaucoup, les systèmes électoraux présentent - ou devraient présenter - un grand intérêt pour tous ceux et celles qui s'intéressent au fonctionnement des gouvernements démocratiques. Dans toute démocratie, les élections constituent une étape cruciale et, comme nous le rappelle un universitaire, elles jouent deux rôles fondamentaux dans les démocraties représentatives: elles autorisent les élus à représenter les électeurs et elles les obligent à rendre compte de leurs actions pendant leur mandat(2). Les systèmes électoraux, à savoir la façon dont les élections sont officiellement structurées, sont donc un élément essentiel permettant d'atteindre ces objectifs.
+
+Au sens strict, les systèmes électoraux sont les mécanismes qui permettent de traduire les préférences des citoyens en sièges dans des institutions représentatives. À ce titre, ils ont une incidence considérable sur de nombreuses facettes du caractère politique d'une société. Ainsi, le comportement des partis politiques et des candidats à des charges électives sera en grande partie conditionné par la structure du système électoral, comme c'est le cas au Canada. Certains universitaires ont constaté que, au pays, le système électoral favorise les préférences régionales, ce qui incite les partis à se concentrer davantage sur les préoccupations régionales que nationales pendant les campagnes électorales. Au niveau national, cette préférence a eu tendance à produire des types de représentation dont l'optique est régionale et les conséquences, centrifuges(3).
+
+Qui plus est, la façon dont un système électoral traduit des votes en sièges dans des assemblées élues peut façonner l'appui du public à l'égard du système démocratique. Si, par exemple, des citoyens estiment que leurs préférences ne se reflètent pas adéquatement au sein du parlement formé à la suite d'une élection, leur appui au système dans son ensemble risque de s'étioler. La participation aux élections baissera, le respect à l'égard des dirigeants politiques et des représentants élus sera moindre et les lois promulguées par le gouvernement ne seront pas considérées comme entièrement légitimes.
+
+La démocratie est un idéal, une abstraction qui, pour la plupart des gens, se concrétise souvent au moment des élections. Pour bon nombre de personnes, une élection est la seule forme de participation politique qui soit, la seule façon tangible de se faire entendre comme citoyen dans une société démocratique. Il est donc extrêmement important que les systèmes électoraux soient perçus comme équitables et qu'ils répondent aux attentes du public; si tel n'est pas le cas, la démocratie elle-même risque d'être menacée.
+
+La population canadienne a l'habitude des débats sur les systèmes électoraux(4).  Le plus récent, qui s'est tenu durant la dernière ronde des négociations constitutionnelles, a porté sur les propositions visant à mettre en place un Sénat élu(5).  Ces débats se poursuivront sans doute, même si les Canadiens ne semblent pas prêts à remanier leur système électoral. Comme le révèle la citation en première page, la population canadienne n'est pas entièrement satisfaite du statu quo. Son mécontentement à l'égard de la «politique traditionnelle» a parfois suscité des demandes de changement dans les structures des institutions politiques, notamment en ce qui concerne l'organisation des élections, comme nous le verrons dans le présent document. En Nouvelle-Zélande et en Italie, l'électorat vient de se prononcer massivement en faveur d'un grand remaniement du système électoral.
+
+Étant donné que les systèmes électoraux resteront un sujet de discussion dans le monde entier, nous visons, dans le présent document, à donner au lecteur une idée générale des principaux systèmes électoraux actuellement en place dans les démocraties représentatives. Dans la première partie, nous traitons des rouages de ces systèmes, tandis que dans la deuxième, nous faisons le point sur les avantages et les inconvénients qu'ils sont censés présenter. Dans la dernière partie, nous examinons les initiatives récemment prises par les Néo-Zélandais et les Italiens dans le but de modifier leur système électoral respectif.
+
+LES ROUAGES DES SYSTÈMES ÉLECTORAUX
+
+Il existe actuellement deux grands types de systèmes électoraux dans les démocraties représentatives: les systèmes majoritaires et les systèmes de représentation proportionnelle (RP).
+
+   A. Les systèmes majoritaires
+
+Dans les systèmes majoritaires, les candidats qui l'emportent sont ceux qui ont recueilli le plus de suffrages dans une circonscription électorale donnée. Ces systèmes diffèrent selon le nombre de représentants élus dans une circonscription électorale et le type de majorité (relative ou absolue) que les élus doivent obtenir.
+
+      1. Le scrutin majoritaire uninominal à un tour
+
+Le scrutin uninominal à un tour (SU), que l'on retrouve généralement dans les pays qui ont hérité de certaines caractéristiques du système parlementaire britannique, est celui que les Canadiens connaissent le mieux.
+
+Dans les circonscriptions représentées par un membre à une assemblée élue, la majorité relative (ou simple) et non absolue suffit à déterminer qui l'emporte au moment d'une élection(6). Chaque électeur appose un simple «X» (ou une autre marque semblable) en regard du nom du candidat ou de la candidate de son choix. Plusieurs candidats peuvent convoiter le même siège; le candidat élu est celui qui recueille le plus grand nombre de votes exprimés. C'est la raison pour laquelle ce mode de scrutin a été baptisé «scrutin majoritaire uninominal à un tour». Il est en vigueur au Canada, aux États-Unis, en Nouvelle-Zélande et au Royaume-Uni.
+
+      2. Le scrutin majoritaire plurinominal
+
+Dans certains systèmes majoritaires, les électeurs peuvent élire plus d'un membre par circonscription électorale(7). Ils se prononcent alors en faveur d'autant de candidats qu'il y a de sièges à pourvoir. Comme c'est le cas pour le scrutin uninominal, sont élus les candidats qui remportent le plus grand nombre de voix.
+
+      3. Le scrutin majoritaire uninominal a majorité absolue
+
+Contrairement à ce qui est le cas dans les systèmes que nous venons de décrire, dans les systèmes où le scrutin majoritaire uninominal est à majorité absolue, on cherche à s'assurer que le candidat élu dans une circonscription jouit de l'appui de plus de la moitié des électeurs. Cet objectif peut être atteint de deux façons.
+
+         a. Le vote préférentiel
+
+Dans les pays où il y a vote préférentiel (également appelé mode de scrutin préférentiel ou SP), les électeurs doivent classer les candidats par ordre de préférence sur leur bulletin de vote. Le numéro 1 sera leur premier choix, le numéro 2 leur deuxième, et ainsi de suite. Si aucun candidat n'obtient une majorité absolue lors du comptage des bulletins de vote, celui qui a obtenu le moins de suffrages est éliminé et les voix qu'il a obtenues sont alors reportées sur la personne indiquée comme deuxième choix; ce processus se poursuit jusqu'à ce qu'un candidat recueille plus de la moitié du total des suffrages exprimés. En Australie, la Chambre des représentants (ou Chambre basse) a recours au vote préférentiel pour les élections depuis 1918.
+
+         b. Le scrutin majoritaire à deux tours
+
+Le scrutin majoritaire à deux tours est un autre moyen de s'assurer que le candidat élu reçoit la faveur de la majorité absolue des électeurs. Dans ce système, le scrutin se fait en deux tours. Au premier, les électeurs peuvent choisir entre plusieurs candidats mais ne voter que pour un seul. Si aucun candidat ne se démarque au premier tour, on procède à un deuxième tour de scrutin où seuls les deux candidats ayant obtenu le plus de suffrages sont en lice. (Dans une variante de ce mode de scrutin, lorsque plus de deux candidats se présentent au deuxième tour, le candidat élu l'emporte à la majorité relative.)
+
+C'est en France, aux élections législatives de mars 1993, que ce mode de scrutin a été le plus récemment utilisé. En 1986, il avait été brièvement remplacé par la représentation proportionnelle (voir plus loin), mais les Français ont peu après repris le scrutin majoritaire à deux tours. Ce mode de scrutin est souvent utilisé pour les élections présidentielles, notamment en France.
+
+   B. Les systèmes de représentation proportionnelle
+
+Les systèmes de représentation proportionnelle (RP) constituent la deuxième grande catégorie de système électoral. Les systèmes de RP visent à répartir les sièges en fonction du nombre de voix exprimées, dans l'espoir que les assemblées et les gouvernements réfléteront correctement les préférences de l'électorat. Les systèmes de RP sont actuellement ceux qui sont les plus souvent utilisés dans les démocraties occidentales(8).
+
+Selon le principe de la RP, chaque parti se voit attribuer un certain nombre de sièges au Parlement selon nombre de voix qu'il a recueillies dans une circonscription électorale donnée; ce principe implique nécessairement que tous les systèmes de RP s'appliquent à des circonscriptions plurinominales(9). Les systèmes de RP comprennent deux grandes catégories: le scrutin de liste et le vote unique transférable (VUT).
+
+      1. Le scrutin de liste
+
+Dans ce système, les électeurs d'une circonscription électorale choisissent un candidat parmi ceux que leur présentent les différents partis en lice. Lors du comptage des voix, chaque parti a droit au nombre de sièges correspondant à sa part des suffrages exprimés; ainsi, si un parti recueille 30 p. 100 des voix, il enverra trois membres à l'assemblée sur une liste de 10 candidats.
+
+Afin d'éviter une multiplication excessive du nombre des partis, les pays qui utilisent ce système fixent parfois un seuil quant au nombre de voix que les partis doivent réunir pour obtenir des sièges. Ces seuils varient d'un pays à l'autre; en Israël, les partis doivent réunir au moins 1 p. 100 des suffrages exprimés pour pouvoir siéger à la Knesset(10). En Allemagne, par contre, les partis doivent recueillir au moins 5 p. 100 des suffrages exprimés dans l'ensemble du pays ou remporter des sièges dans trois circonscriptions uninominales avant de se voir attribuer des sièges à la proportionnelle(11). Une fois le seuil atteint, on a recours à différentes méthodes, dont le lecteur trouvera la description ci-après, pour calculer la répartition des sièges entre les partis.
+
+Lorsqu'on a déterminé la part des sièges à pourvoir à laquelle un parti a droit, il s'agit de décider quels candidats inscrits sur sa liste seront déclarés élus. Dans la plupart des pays, cela dépend de l'ordre dans lequel les noms des candidats figurent sur le bulletin de vote. Ceux dont le nom figure en tête de la liste de leur parti ont donc le plus de chances d'être élus et ceux qui se trouvent en fin de liste, le moins.
+
+            a. Les variantes du scrutin de liste
+
+Le scrutin de liste a été critiqué parce que ce sont les partis politiques qui déterminent l'ordre dans lequel le nom des candidats figure sur le bulletin de vote, et, par conséquent, établissent quels candidats ont le plus de chances d'être élus; ce mode de scrutin donne donc des pouvoirs considérables aux partis. Les électeurs voient leurs choix considérablement restreints et le scrutin devient donc moins représentatif. Afin de corriger ce déséquilibre, certains des pays qui utilisent le scrutin de liste donnent aux électeurs un plus grand choix parmi les candidats. Le scrutin de liste peut alors comporter deux variantes. Dans la première, les électeurs peuvent choisir entre plusieurs candidats, pour autant que ces derniers appartiennent au même parti. Dans la seconde, connue sous le nom de panachage et utilisée en Suisse, ils peuvent choisir leurs candidats sur plusieurs listes, quelle que soit la formation à laquelle ces derniers appartiennent. Les principes de base du scrutin de liste s'appliquent toujours, mais les partis se voient attribuer des sièges en fonction des suffrages exprimés en leur faveur.
+
+         b. La répartition des sièges
+
+Dans tous les systèmes de RP, il faut disposer d'un moyen de déterminer la répartition des sièges entre les candidats à une élection. Pour effectuer cette répartition, on a généralement recours à l'un des deux procédés suivants: celui des plus forts restes et celui de la plus forte moyenne (dont il existe deux versions, à savoir le système de d'Hondt et le système de Sainte-Laguë). Le tableau 4 donne une vue d'ensemble de ces diverses méthodes.
+
+            a) Le procédé des plus forts restes
+
+Lorsqu'on utilise ce procédé, la première étape consiste à établir le nombre de voix que chaque parti doit obtenir pour remporter un siège. Les voix recueillies par chaque parti sont alors divisées par ce nombre (dit quotient électoral). La façon la plus simple d'établir un quotient électoral (le «quotient de Hare») est de diviser les suffrages exprimés par le nombre de sièges à pourvoir. Par exemple, dans une circonscription où il y a cinq sièges à pourvoir et où 40 000 suffrages ont été exprimés, le quotient serait de 8 000 voix. Il existe trois autres options. Dans le cas du «quotient de Hagenbash-Bischoff», les suffrages exprimés sont divisés par le nombre de sièges à pourvoir, plus un. Dans le cas du «quotient de Droop», les suffrages exprimés sont divisés par le nombre de sièges, plus un, et le quotient est majoré de un. Dans le cas du «quotient de Imperiali», utilisé en Italie, les suffrages exprimés sont divisés par le nombre de sièges, plus deux.
+
+Par la suite, chaque parti reçoit un siège pour chaque bloc de voix égal au quotient. Ainsi, si le quotient de Hare a été établi à 5 000 voix, chaque parti reçoit un siège pour chaque bloc de 5 000 voix qu'il a recueillies. Dans un deuxième temps, tous les sièges qui restent à pourvoir sont alloués au parti ou aux partis ayant recueilli le plus grand nombre de voix après que les quotients ont été utilisés. Le fonctionnement de ce procédé est illustré au tableau 1.
+
+
+
+Tableau 1
+
+Circonscription de quatre sièges, 20 000 suffrages exprimés
+Quotient de Hare: 5 000 voix
+
+
+Parti
+
+Nombre de suffrages
+
+
+Quotient
+
+
+Sièges
+
+
+Restes
+
+
+Sièges
+
+
+Total des sièges
+
+A
+
+B
+
+C
+
+D
+
+TOTAL
+
+
+8 200
+
+6 100
+
+3 000
+
+2 700
+
+20 000
+
+
+5 000
+
+5 000
+
+--
+
+--
+
+
+
+
+1
+
+1
+
+0
+
+0
+
+2
+
+
+3 200
+
+1 100
+
+3 000
+
+2 700
+
+
+1
+
+0
+
+1
+
+0
+
+2
+
+
+2
+
+1
+
+1
+
+0
+
+4
+
+Source: Dick Leonard et Richard Natkiel, World Atlas of Elections: Voting Patterns in 39 Democracies, Londres, The Economist Publications, 1986, p. 2.
+
+
+
+Comme l'illustre ce tableau, seuls les partis A et B ont atteint le quotient électoral, si bien que deux sièges seulement sur quatre peuvent être alloués directement. Dans un deuxième temps, le troisième siège va au parti A, puisque c'est lui qui a obtenu le plus grand nombre de voix après que le quotient a été utilisé. Le deuxième parti à avoir obtenu le plus grand nombre de voix restantes, à savoir le parti C, se voit attribuer le quatrième et dernier siège. Le procédé des plus forts restes favorise les petites formations et, dans le cas qui nous occupe, le parti C remporte autant de sièges que le parti B, même s'il n'a recueilli que la moitié des suffrages obtenus par ce dernier.
+
+            b) Le procédé de la plus forte moyenne (système de d'Hondt)
+
+Lorsqu'on utilise ce procédé, on divise le nombre de voix que chaque parti a obtenu par des diviseurs successifs et on attribue les sièges aux partis dans l'ordre décroissant des quotients. Les résultats du tableau 2 sont presque semblables à ceux du tableau 1, mais cette fois, c'est le système de d'Hondt de la plus forte moyenne qui a été utilisé pour l'attribution des sièges.
+
+
+
+Tableau 2
+
+Circonscription de quatre sièges, 20 000 suffrages exprimés
+Division par les diviseurs de d'Hondt
+Parti
+
+Nombre de suffrages
+
+
+Diviseur: 1
+
+
+Diviseur: 2
+
+
+Diviseur: 3
+
+
+Total des
+sièges
+A
+
+B
+
+C
+
+D
+
+TOTAL
+
+
+8 200
+
+6 100
+
+3 000
+
+2 700
+
+20 000
+
+
+8 200 (1)
+
+6 100 (2)
+
+3 000
+
+2 700
+
+
+4 100 (3)
+
+3 050 (4)
+
+1 500
+
+1 350
+
+
+2 733
+
+2 033
+
+1 000
+
+900
+
+
+2
+
+2
+
+0
+
+0
+
+4
+
+Source: Dick Leonard et Richard Natkiel, World Atlas of Elections: Voting Patterns in 39 Democraties, Londres, The Economist Publications, 1986, p. 3.
+
+Dans cet exemple, le nombre de suffrages obtenu par chaque parti est successivement divisé par les diviseurs de d'Hondt (1,2,3). Les sièges sont répartis après que l'on a utilisé tous les diviseurs; de cette façon, il est possible de comparer les quotients et de répartir les sièges dans l'ordre décroissant de ces derniers. Le parti A, dont le quotient de 8 200 suffrages est le plus élevé, reçoit le premier siège; comme c'est lui qui a aussi le troisième quotient en importance (4 100 suffrages) il a également droit au troisième siège. Le parti B, qui a le deuxième quotient en importance (6 100 suffrages), se voit octroyer le deuxième siège et son quotient de 3 050 suffrages (le quatrième en importance) lui donne droit au quatrième et dernier siège. Cet exemple nous permet de constater que lorsqu'on utilise le procède de d'Hondt, ce sont les partis qui ont obtenu le plus grand nombre de suffrages exprimés qui ont tendance à se voir octroyer des sièges; le procédé ne garantit donc pas une très grande représentation proportionnelle.
+
+           c) Le procédé de la plus forte moyenne (systèmes de Sainte-Laguë
+               et de Sainte-Laguë modifié)
+
+Dans les systèmes de Sainte-Laguë et de Sainte-Laguë modifié, les diviseurs sont différents de ceux utilisés dans le système de d'Hondt. Dans le système de Sainte-Laguë, on divise les votes que recueille un parti par 1, 3, 5, 7 etc., plutôt que par 1, 2, 3, 4, etc. Plusieurs pays scandinaves ont recours à version modifiée de ce système, dans laquelle le premier diviseur est établi à 1,4 au lieu de 1 (si bien que les diviseurs sont alors 1,4, 3, 5, 7, etc.). Dans un système multipartite, les formations de taille moyenne ont alors tendance à être favorisées.
+
+            d) Combinaison des deux procédés
+
+Il est possible de combiner les caractéristiques du procédé des plus fort restes et du procédé de la plus forte moyenne lorsque l'on attribue les sièges en se servant du quotient de Hare et des diviseurs de d'Hondt. On applique d'abord le quotient et, ensuite, on alloue les sièges restants en se servant des diviseurs.
+
+      2. Le vote unique transférable (VUT)
+
+Contrairement au scrutin de liste, le vote unique transférable donne la préférence aux candidats plutôt qu'aux partis. Comme c'est le cas dans tous les systèmes de RP, les circonscriptions électorales qui ont recours au VUT sont représentées par plusieurs membres au sein d'une assemblée. Chaque électeur donne un ordre de préférence aux candidats dont le nom figure sur le bulletin de vote. Au moment où l'on compte les bulletins de vote, on détermine d'abord quels candidats ont obtenu le plus de voix. Pour être déclaré élu, un candidat doit obtenir un certain nombre des suffrages exprimés, déterminé à l'avance. Les candidats qui obtiennent ce nombre de voix au moment du premier comptage sont déclarés élus et les voix qu'ils ont obtenues en sus du nombre fixé sont transférées aux candidats que les électeurs ont indiqué comme deuxième choix. Dans la deuxième étape du comptage, on répartit ces voix «excédentaires»; là encore, les candidats qui ont obtenu le nombre de voix fixés à l'avance sont déclarés élus et les voix excédentaires sont de nouveau réparties. Les voix sont successivement reportées jusqu'à ce que tous les sièges à pourvoir soient occupés.
+
+Voici un cas hypothétique illustrant le fonctionnement du VUT. Si une circonscription électorale de trois sièges compte 1 000 électeurs, le nombre de voix requis pour remporter un siège serait le suivant:
+
+                1 000 +1 =1 000 +1 = 250 + 1 = 251
+                3 + 1             4
+
+
+
+Tableau 3
+
+Circonscription de trois sièges, 1 000 suffrages exprimés
+cinq candidats, VUT
+Candidat 	Parti 	1er comptage 	2e comptage 	3e comptage 	4e comptage
+
+A
+
+
+
+B
+
+
+
+C
+
+
+
+D
+
+
+
+E
+
+
+
+TOTAL
+
+
+V
+
+
+
+W
+
+
+
+X
+
+
+
+Y
+
+
+
+Z
+
+
+175
+
+
+
+200
+
+
+
+150
+
+
+
+270
+
+
+
+205
+
+
+
+1 000
+
+
++ 10
+= 185
+
++ 3
+= 203
+
+
++ 1
+= 151
+
+
+
+- 19
+= 251
+
+
++ 5
+= 210
+
+
+
+1 000
+
+
++ 100
+= 285
+
++ 31
+= 234
+
+
+- 151
+= 0
+
+
+
+
+= 251
+
+
++ 20
+= 230
+
+
+
+1 000
+
+
+- 34
+= 251*
+
++ 8
+= 242
+
+
+= 0
+= 251*
+
+
+
+
+= 26
++ 256*
+
+
+
+
+1 000
+
+* = déclaré élu
+
+Source: Nouvelle-Zélande, Electoral Referendum Panel, The Guide to the Electoral Referendum, Wellington, 1992, p. 9.
+
+Le tableau 3 indique de quelle façon les voix seraient comptées. Au premier comptage, le candidat D a obtenu les 251 voix requises; il a donc été déclaré élu et ses 19 voix supplémentaires ont été transférées au candidat placé en deuxième position sur chaque bulletin, ce qui donne les nouveaux totaux que l'on trouve dans la colonne du deuxième comptage. Comme aucun candidat (sauf le candidat D) n'a atteint le seuil au deuxième comptage, on a transféré toutes les voix du candidat C, qui en avait recueilli le moins, aux autres candidats lorsqu'on a procédé au troisième comptage. C'est donc le candidat A qui a été déclaré élu. Au quatrième comptage, les voix supplémentaires du candidat A ont été redistribuées, ce qui a permis au candidat E d'atteindre le seuil requis. Donc, après trois redistributions et quatre comptages, les trois sièges sont allés aux candidats A, D et E. À noter que le candidat B, qui, après le candidat D, était celui qui avait obtenu le plus de suffrages au premier comptage n'a, finalement, pas été élu.
+
+Le VUT est le système actuellement utilisé pour les élections au sénat australien, ainsi qu'à Malte et en République d'Irlande. En Australie, les électeurs ont maintenant le choix, sur leur bulletin de vote, entre la liste d'un parti ou une liste des candidats qu'ils dressent eux-mêmes, par ordre de préférence.
+
+   C. Formule mixte
+
+Certains pays ont combiné les systèmes majoritaire et de représentation proportionnelle pour bénéficier des avantages offerts par les deux. En Allemagne, par exemple, depuis la fin des années 40, la moitié des sièges au Bundestag (qui est l'assemblée législative) sont pourvus au scrutin majoritaire, dans des circonscriptions uninominales, et l'autre moitié à l'aide du scrutin de liste, selon le système de d'Hondt. Les électeurs inscrivent deux choix sur leur bulletin de vote; ils choisissent un candidat sur une liste des différentes formations, et un autre parmi ceux qui se présentent dans les circonscriptions électorales.
+
+Tableau 4
+
+Quotients et diviseurs: formules utilisées
+1. Quotient de Hare = Nombre de Suffrages
+
+                 Nombre de sièges
+
+2. Quotient de Hagenbach-Bischoff = Nombre de Suffrages
+
+                                        Nombre de sièges + 1
+
+3. Quotient de Imperiali = Nombre de Suffrages
+
+                     Nombre de sièges + 2
+
+4. Quotient de Droop = Nombre de Suffrages + 1
+
+                   Nombre de sièges + 1
+
+5. Diviseurs de d'Hondt: 1, 2, 3, 4, 5, etc.
+
+6. Diviseurs de Sainte-Laguë: 1, 3, 5, 7, etc.
+
+7. Diviseurs de Sainte-Laguë modifiés: 1, 4, 3, 5, 7, 9, etc.
+
+
+
+En résumé, dans le procédé dit des plus forts restes, les quotients permettent d'établir un nombre de voix que les partis doivent réunir pour avoir droit à des sièges dans des circonscriptions plurinominales. Dans le procédé de la plus forte moyenne, les diviseurs permettent de répartir les sièges entre les différentes formations. Certains pays combinent les deux procédés; dans une première étape, ils se servent des quotients et, dans une deuxième, ils ont recours aux diviseurs.
+
+AVANTAGES ET INCONVÉNIENTS DES DIFFÉRENTS SYSTÈMES
+
+Aucun système électoral n'est parfait. Tous ont leurs avantages et leurs inconvénients, dont les observateurs attentifs devraient être conscients. Dans cette section, nous donnons les arguments présentés par les tenants et les critiques des divers systèmes.
+
+Il importe de se souvenir que ces arguments sont parfois polémiques; il est donc utile de s'efforcer d'évaluer chacun des systèmes en toute objectivité. Il s'agit de déterminer si un système électoral donné permet ou non d'atteindre certains objectifs recherchés. Un universitaire estime que, dans les démocraties représentatives, les élections devraient idéalement permettre d'atteindre les objectifs suivants:
+
+                i) la constitution d'un Parlement qui reflète les principales tendances d'opinion au sein de l'électorat;
+
+                ii) l'arrivée au pouvoir d'un gouvernement conforme aux désirs de la majorité des électeurs;
+
+                iii) l'élection de représentants dont les qualités personnelles les rendent aptes à gouverner;
+
+                iv) l'arrivée au pouvoir de gouvernements forts et stables(12).
+
+On peut également se demander si un système électoral donné permet d'atteindre les résultats suivants:
+
+                i) une situation que les candidats défaits puissent accepter et la perception, par la population, que le système électoral est le meilleur fondement possible pour la direction des affaires du pays;
+
+                ii) la promotion du respect de points de vue différents;
+
+                iv) la représentation équitable des minorités et d'autres groupes importants de la société, notamment les gens d'affaires, les femmes et les syndicats(13).
+
+Bien que cela serait eminemment souhaitable, il est quasiment impossible de trouver un système électoral qui réponde à tous ces critères. Ceux-ci donnent cependant une perspective objective pouvant faciliter la comparaison et l'évaluation des systèmes électoraux. Ils peuvent aussi servir à trier les arguments contradictoires, probants et parfois déroutants présentés en faveur des différents systèmes.
+
+LES SYSTÈMES MAJORITAIRES
+
+Les systèmes majoritaires présentent plusieurs avantages. Tout d'abord, ils permettent l'élection de gouvernements majoritaires formés d'un seul parti. Les recherches ont en effet montré que l'arrivée du pouvoir de gouvernements de ce type est plus probable dans un système majoritaire que dans les systèmes de représentation proportionnelle(14). Par conséquent, lorsque les électeurs votent pour un parti ou un candidat, ils choisissent également un gouvernement. La formation de coalitions est moins probable dans ce type de système électoral que dans d'autres et l'on pourrait faire valoir que les gouvernements qui sont formés à l'issue de scrutins majoritaires ont plus de latitude que les autres pour faire appliquer les politiques qu'ils ont prônées pendant la campagne électorale.
+
+Les partis qui forment un gouvernement dans un système majoritaire à scrutin uninominal à un tour ont tendance à détenir la majorité des sièges au Parlement(15). Il en résulte souvent des gouvernements plus stables (autrement dit, qui ne risquent pas de tomber à la suite de votes de confiance et qui peuvent se rendre au terme de leur mandat) et mieux en mesure de réaliser leur programme législatif. Cependant, le scrutin uninominal ne garantit pas l'élection de gouvernements majoritaires. D'aucuns prétendront également qu'il n'est pas toujours souhaitable que de tels gouvernements soit élus(16).
+
+La propension à l'élection de gouvernements majoritaires formés d'un seul parti peut avoir des conséquences inattendues. Découragés par le manque d'engouement des électeurs à leur égard, de petits groupes extrémistes pourraient être enclins à recourir à des moyens non démocratiques pour faire avancer leur cause. Si, par contre, le mode de scrutin leur permet d'être représentés au Parlement, ces groupes sont alors tenus de se conformer aux règles en vigueur.
+
+Les systèmes majoritaires présentent un autre grand avantage: leur simplicité relative aux yeux de l'électorat. Il n'y a pas de formules complexes, puisqu'est proclamé élu le candidat qui a obtenu la majorité des suffrages.
+
+Certains, toutefois, récusent les prétendus avantages que présentent les systèmes majoritaires. Un analyste, se fondant sur le mode d'analyse susmentionné, écrit:
+
+                On ne peut s'y fier, que ce soit pour l'élection d'un Parlement qui soit le reflet des principaux mouvements d'opinion ou celle d'un gouvernement ayant la faveur de la majorité, voire de la plupart des électeurs. [...] [Les systèmes majoritaires] excluent bien souvent du Parlement des hommes et des femmes dont la contribution pourrait être des plus précieuses. [...] On ne peut s'y fier, que ce soit pour l'élection d'un parti qui pourrait gouverner sans encombre, fidèle à ses idées, ou pour celle d'un gouvernement par voie de consentement(17).
+
+L'argument le plus souvent invoqué est que ce type de système électoral ne rend pas justice à la représentation. Les systèmes majoritaires ayant tendance à fausser les résultats en favorisant les grands partis au détriment des plus faibles, il arrive bien souvent que les désirs de la plupart des électeurs ne se traduisent pas dans les résultats du scrutin. Les critiques de ces systèmes font valoir qu'ils discréditent tout le processus politique aux yeux de ceux et celles qu'il est censé servir. À tout le moins, les citoyens se désintéressent de la politique, ce qui se traduit par une faible participation électorale; au pire, ils ont recours à des moyens plus directs pour montrer leur mécontentement, ce qui risque de compromettre gravement la démocratie.
+
+Comme, en général, le parti qui recueille le plus de voix remporte plus de sièges que ceux que lui donnerait normalement le pourcentage des suffrages exprimés en sa faveur, les autres formations se voient désavantagées par les systèmes majoritaires. Comme le précise le politologue canadien, William P. Irvine:
+
+                Tous les systèmes majoritaires tendent à exagérer la représentation du parti le plus fort au Parlement, à pénaliser celui qui occupe la deuxième place et à anéantir les tiers partis qui ne bénéficient que d'un faible appui dans tout le pays(18).
+
+Le corrolaire de cette situation, c'est qu'en exagérant la force du parti du gouvernement, le système majoritaire produit des oppositions faibles et inefficaces(19).
+
+Dans les grands pays où la population est dispersée, les systèmes majoritaires ont tendance à défavoriser les partis qui ne bénéficient que d'un faible appui de l'électorat à l'échelle nationale. Par contre, ils favorisent les partis qui ont une forte présence régionale mais qui n'ont guère d'appui au plan national. Un système électoral majoritaire peut donc être considéré comme susceptible de diviser un pays où les régions sont bien démarquées, les partis étant encouragés (pour ce qui est des résultats électoraux) à bien se faire valoir au niveau régional. Pareil système favorise les partis dont l'appui se trouve concentré dans une région ou qui se font les champions de causes régionales plutôt que nationales, et il tend à accentuer les clivages régionaux.
+
+Les variantes des systèmes majoritaires ont suscité les commentaires décrits ci-après.
+
+Le scrutin majoritaire uninominal à un tour
+
+Nombreux sont ceux qui estiment que le scrutin majoritaire uninominal à un tour est celui qui permet de représenter le mieux les intérêts des circonscriptions. Dans les systèmes majoritaires où l'on élit un représentant par circonscription, il existe un lien direct entre les représentants élus et les électeurs. On sait exactement qui représente les intérêts de la circonscription, ce qui n'est pas le cas dans les systèmes de RP où les électeurs élisent plusieurs représentants par circonscription.
+
+Le scrutin majoritaire plurinominal
+
+Le scrutin majoritaire plurinominal combine certains avantages des systèmes de RP et des systèmes majoritaires, non seulement parce que plusieurs points de vue sont représentés à l'assemblée (comme c'est le cas dans les systèmes de RP), mais aussi parce que les représentants élus bénéficient d'un appui substantiel de l'électorat. Par contre, chaque circonscription étant représentée par plusieurs députés, les responsabilités des élus envers leurs électeurs ne sont pas toujours claires.
+
+Le scrutin majoritaire uninominal à majorité absolue
+
+Contrairement à ce qui est le cas dans les systèmes à scrutin majoritaire uninominal à un tour, dans les systèmes où le scrutin majoritaire uninominal est à majorité absolue, on cherche à s'assurer que le candidat élu dans une circonscription jouit de l'appui de plus de la moitié des électeurs. Un gouvernement élu dans le cadre de ce système bénéficie d'une plus grande légitimité(20). Rien ne garantit cependant que le ou les partis qui forment le gouvernement dans le cadre de ce système aient l'appui d'une bonne majorité de tous les électeurs(21).
+
+L'incidence de ce mode de scrutin sur les mouvements extrémistes est un autre argument qui milite en sa faveur. Les tenants de ce système prétendent qu'en favorisant les grands partis, les systèmes à majorité absolue découragent l'émergence des mouvements extrémistes. Les faits tendent à confirmer cette théorie(22).
+
+Enfin, lorsqu'il y a scrutin à deux tours dans le système majoritaire uninominal, les électeurs doivent moins se préoccuper de «perdre» leur vote au premier tour, puisqu'ils savent qu'ils pourront vraisemblablement voter de nouveau.
+
+LES SYTÈMES DE REPRÉSENTATION PROPORTIONNELLE (RP)
+
+Le principal argument en faveur de la RP est qu'elle traduit plus fidèlement les préférences des électeurs pour ce qui est de l'attribution des sièges au Parlement. Les électeurs semblent plus disposés à voter pour des partis plus petits lorsqu'ils savent qu'ils obtiendront des résultats tangibles et que les sièges seront alloués en fonction des suffrages exprimés. Le fait que les partis plus petits puissent, en général, remporter des sièges dans les systèmes de RP favorise la formation de tels partis et c'est là un facteur qui favorise la représentation d'une opinion publique plus diversifiée.
+
+Bien que certaines études confirment que les systèmes de RP donnent une représentation plus proportionnelle que les systèmes majoritaires(23), des chercheurs ont constaté qu'un système majoritaire peut quand même donner une meilleure proportionnalité qu'un système de RP(24). D'autres facteurs, dont le nombre de partis qui se présentent devant le corps électoral, peuvent influer sur la proportionnalité des résultats électoraux(25).
+
+Selon un argument fort semblable, les systèmes de RP permettent davantage aux minorités et aux femmes d'être représentées au Parlement. Au Canada, cependant, une récente Commission royale sur la réforme électorale a fait valoir que la représentation des femmes dans les assemblées élues dépendait souvent de facteurs non apparentés au système électoral, par exemple, le nombre de candidates que les formations politiques se fixent comme objectif. À cet égard, le comportement des partis politiques, surtout dans les systèmes de RP assortis d'un scrutin de liste, est un facteur essentiel permettant aux femmes de remporter des sièges dans des assemblées élues. Une analyse plus poussée révèle que dans les pays où il y a RP mais où il n'y a pas de quotas pour le nombre de candidates, les résultats sont semblables, voire inférieurs, à ceux qui sont obtenus au Canada(26).
+
+Certains prétendent également que dans les systèmes de RP, où l'on ne marginalise pas les points de vue des minorités, le discours politique et la participation à la vie publique sont plus animés. Un indice empirique fiable, à savoir le niveau de participation au scrutin, tend à confirmer cette assertion(27).
+
+Les arguments invoqués contre la RP peuvent cependant être tout aussi probants que ceux qu'avancent ses tenants. Certains critiques font remarquer que les systèmes de RP favorisent l'émergence de vues extrêmes qui, bien que souvent fondées sur des opinions éphémères en vogue à un moment donné, voient leur légitimité accrue et leur durée prolongée du fait qu'elles sont représentées au Parlement. Cet argument est fort bien résumé par W. Irvine, qui estime que dans les systèmes de RP:
+
+                Les mouvements font entrer leurs représentants au Parlement et gagnent une certaine crédibilité auprès de l'électorat. Ils demeurent des options possibles et plausibles lorsque les régimes sont confrontés à des problèmes économiques et peuvent mettre les bâtons dans les roues d'un régime démocratique(28).
+
+Certains critiquent également les systèmes de RP à cause de la complexité des modalités du scrutin et de la façon dont les voix sont comptées. D'après les sources que nous avons consultées, bien que la participation électorale puisse effectivement être grande dans les systèmes de RP, le nombre des bulletins de vote détériorés est également élevé, ce qui dénote peut-être une certaine confusion de la part des électeurs qui se voient offrir de multiples choix(29).
+
+Certaines réserves ont également été formulées quant à la forme que prennent les gouvernements issus des systèmes électoraux de RP. Contrairement aux systèmes majoritaires, qui favorisent la formation de gouvernements formés d'un seul parti, les systèmes de RP donnent généralement naissance à des gouvernements de coalition. Par conséquent, lorsqu'ils se rendent aux urnes dans un système de RP, les électeurs n'élisent pas un gouvernement. Les gouvernements issus de la RP sont généralement formés après les élections, lorsque les partis s'efforcent, par des tractations, de constituer des coalitions pour gouverner. En fait, les électeurs n'ont guère voix au chapitre pour ce qui est de la configuration de leur gouvernement.
+
+De même, les gouvernements de coalition sont jugés moins stables que les gouvernements majoritaires. Les tractations entre les partis se poursuivent après que le gouvernement a été formé, les différentes factions s'efforçant de faire inscrire certaines de leurs priorités dans le programme officiel. Des compromis sont toujours possibles, mais les négociations donnent souvent lieu à des fossés impossibles à combler. À moins qu'il n'y ait des changements au sein des coalitions au pouvoir, celles-ci s'effritent et il faut alors une nouvelle consultation populaire. C'est pour cette raison que certains prétendent que les gouvernements de coalition sont par définition instables et que le mode de scrutin qui préside à leur formation n'est donc pas satisfaisant.
+
+Les critiques prétendent également que, contrairement aux apparences, les coalitions rendent les changements de gouvernement plus difficiles. La configuration d'une coalition peut changer après les élections, mais ce sont généralement les plus forts qui restent(30). Il est donc beaucoup plus difficile de changer de gouvernement dans un système de RP que dans des systèmes majoritaires.
+
+D'autres arguments sont présentés quant aux avantages et aux inconvénients de certaines formes de RP.
+
+Le scrutin de liste
+
+Les tenants du scrutin de liste prétendent que les partis politiques occupent une place importante dans toutes les démocraties représentatives et que le scrutin de liste permet donc de maintenir et de renforcer leur rôle.
+
+Par contre, les formations politiques ont trop de pouvoir lorsqu'elles décident quels seront leurs candidats qui figureront en tête de liste. Les représentants élus dans le cadre de ce système sont plus fidèles à leur parti qu'à leurs électeurs. Il est possible de régler ce genre de problèmes en permettant aux électeurs de choisir les candidats qu'ils préfèrent dans plusieurs listes ou dans certaines listes.
+
+Les variantes du scrutin de liste
+
+Les variantes du scrutin de liste, qui laissent les électeurs choisir entre des candidats d'un même parti ou entre ceux de plusieurs partis, permettent vraiment aux électeurs d'exprimer leurs préférences. Grâce à ces variantes, ce sont les candidats qui obtiennent le plus de suffrages qui sont élus, ce qui accroît la légitimité des résultats.
+
+Par contre, si le choix des électeurs se limite aux candidats d'un seul parti, ces derniers seront portés à faire concurrence aux membres de leur propre parti plutôt qu'à ceux des formations rivales, ce qui risque de compromettre la cohésion du parti; il devient alors plus difficile de gouverner.
+
+Le vote unique transférable
+
+Contrairement au système de RP à scrutin de liste, le système de vote unique transférable donne la priorité aux candidats plutôt qu'au parti. Il a donc l'avantage de permettre la représentation équitable des opinions qui ne cadrent pas avec celles du parti(31). De plus, contrairement à ce qui est le cas dans le système de PR à scrutin de liste, les représentants élus dans un système de vote unique transférable sont plus portés à se montrer attentifs aux besoins de leur circonscription car ils dépendent de leurs commettants, et non du parti, pour se faire réélire.
+
+Les critiques du système de vote unique transférable prétendent qu'il affaiblit les partis et qu'il entrave l'émergence d'un système de parti responsable du fait que les candidats cherchent à s'attirer des appuis personnels, parfois au détriment d'autres candidats de leur propre parti(32).
+
+Lorsque quelque cinquante candidats briguent les suffrages dans le système du vote unique transférable, comme cela a été le cas en Australie, le dépouillement des votes peut être long. Un autre inconvénient, également constaté en Australie, est la complexité du vote lui-même, comme en témoigne le grand nombre de bulletins de vote détériorés(33).
+
+RÉFÉRENDUMS SUR LA RÉFORME DES SYSTÈMES ÉLECTORAUX
+
+Lors de référendums récents tenus en Nouvelle-Zélande et en Italie, les citoyens de ces deux pays ont exprimé le désir d'adopter de nouveaux systèmes électoraux. Les Néo-Zélandais ont souhaité en finir avec le système majoritaire uninominal à un tour et ont opté pour un système incluant une certaine proportionnalité; quant aux Italiens, ils ont décidé le contraire. À noter que les électeurs de ces deux pays ont décidé de modifier leur système électoral respectif parce qu'ils étaient mécontents du statu quo.
+
+   A. La Nouvelle-Zélande
+
+Le 18 septembre 1992, les Néo-Zélandais ont voté par voie de référendum en faveur d'une réforme électorale. Les électeurs devaient indiquer s'ils voulaient conserver leur scrutin majoritaire uninominal à un tour et, dans le cas contraire, lequel des quatre modèles de RP ils préféraient. Près de 85 p. 100 de ceux qui ont voté ont opté pour un changement et 70 p. 100 d'entre eux se sont prononcés massivement en faveur de la formule mixte utilisée en Allemagne (voir plus haut). Les résultats du référendum de septembre ne lient pas les Néo-Zélandais, puisqu'à la prochaine élection générale, qui doit se tenir avant la fin de 1993, ils pourront choisir entre le statu quo ou une version améliorée de la formule mixte.
+
+   B. L'Italie
+
+À l'occasion d'un récent référendum (qui s'est tenu le 18 avril 1993), les Italiens ont décidé de tourner le dos à la RP qui a amené l'élection de 51 gouvernements depuis la fin de la Seconde Guerre mondiale. Les électeurs ont dû se prononcer sur des questions telles que le financement des partis et la représentation proportionnelle en vigueur pour le Sénat et la Chambre des députés. Cette décision ne manquera pas d'entraîner des changements dans le système électoral puisque près de deux tiers des 48 millions d'électeurs admissibles ont voté, soit bien plus que le pourcentage requis (50 p. 100), pour que les résultats aient force exécutoire(34).
+
+Les Italiens ont voté en faveur d'un système à scrutin majoritaire uninominal à un tour qui, on l'espère, donnera naissance à des gouvernements formés d'un seul parti et mettra un terme au pouvoir des chefs de parti. Par leur vote, les Italiens ont sanctionné un plan visant à pourvoir trois quarts des sièges laissés vacants au Sénat (238 sur 315) par le système à scrutin majoritaire uninominal à un tour, dit scrutin anglais. Il est à espérer que les mêmes règles s'appliqueront ensuite à la Chambre des députés. Il incombe au gouvernement de décider de la forme que prendra la réforme électorale.
+
+CONCLUSION
+
+Bien que les systèmes électoraux jouent un rôle essentiel dans toute démocratie représentative, il faut se garder d'exagérer leur importance. Même le meilleur système électoral possible est voué à l'échec si d'autres conditions ne sont pas satisfaites. Deux politicologues canadiens nous le rappellent fort bien. Selon eux, les systèmes électoraux:
+
+                ne déterminent pas la nature des partis, ni le genre de gouvernement, qu'il soit majoritaire ou minoritaire, formé d'un seul parti ou de coalition, dans un pays donné. Les gouvernements sont en grande partie le fruit de l'équilibre des forces entre les partis qui, eux-mêmes, sont en grande partie tributaires de la culture politique et de la structure sociale d'un pays, ainsi que du comportement électoral de ses citoyens. Cependant, le système électoral [...] constitue une force intermédiaire puissante qui façonne la concurrence entre les partis, dénaturant ou reproduisant fidèlement les préférences électorales des électeurs. Les élections étant un rouage essentiel des démocraties modernes, ainsi que le principal mécanisme de participation politique pour la plupart des gens, la façon dont les votes sont traduits en sièges constitue [...] un facteur important dans le système politique d'un pays(35).
+
+Comme nous l'avons précisé dans l'introduction du présent document, les élections constituent l'expérience la plus directe et, pour bien des gens, la seule qui leur permette de faire entendre leur voix de citoyen dans une société démocratique. C'est peut-être pour cette raison que le mécontentement croissant se traduit par des demandes de remaniement des élections, comme cela a été le cas récemment en Nouvelle-Zélande et en Italie, où un changement de système électoral est apparu comme une façon appropriée et efficace de corriger les lacunes de la démocratie dans son ensemble. Les Canadiens, aux prises avec plusieurs de ces mêmes doutes et sources de mécontentement, pourraient bien commencer à se demander s'ils ne souhaiteraient pas un changement analogue.
+
+BIBLIOGRAPHIE SÉLECTIVE
+
+Blais, André. «The Debate over Electoral Systems». International Political Science Review, vol. 12, no 3, 1991, p. 239 à 260.
+
+Blais, André et Elizabeth Gidengil. Making Representative Democracy Work: The Views of Canadians. Vol. 17 de la collection d'études. Commission royale sur la réforme électorale et le financement des partis, Toronto, 1991.
+
+Freedom House Survey Team. Freedom in the World: Political Rights and Civil Liberties 1991-1992. New York, Freedom House, 1992.
+
+Irvine, William P. Does Canada Need a New Electoral System? Kingston (Ontario), Institute of Intergovernmental Affairs, Université Queen's, 1979.
+
+Jackson, Robert et Doreen. Politics in Canada. 2e édition. Scarborough (Ontario), Prentice-Hall Canada, 1990.
+
+Lakeman, Enid. How Democracies Vote: A Study of Electoral Systems. Londres, Faber and Faber, 1974.
+
+Leonard, Dick et Richard Natkiel. World Atlas of Elections: Voting Patterns in 39 Democracies. Londres, The Economist Publications, 1986.
+
+Mackie, Thomas T. et Richard Rose. The International Almanac of Electoral History. 3e édition. Londres, Macmillan, 1991.
+
+Nouvelle-Zélande, Comité sur le référendum électoral. The Guide to the Electoral Referendum. Wellington, 1992.
+
+Rose, Richard (éd.). Electoral Participation: A Comparative Analysis. Beverly Hills, Sage Publications, 1980.
+
+Union interparlementaire. Parliaments of the World. Vol. I. 2e édition. New York, Facts on Files Publications, 1986.
+
+(1) André Blais et Elizabeth Gidengil, La démocratie représentative - Perceptions des Canadiens et Canadiennes, volume 17 de la collection d'études, Commission royale sur la réforme électorale et le financement des partis, Toronto, 1991, p. 89.
+
+(2) Hanna Fenichel Pitkin, The Concept of Representation, University of California Press, 1967, surtout les p. 38 à 59.
+
+(3) Voir, par exemple, Alain Cairns, «The Electoral System and the Party System in Canada, 1921-1965», Canadian Journal of Political Science, vol. 1, no 1, mars 1968, p. 55 à 80, et William P. Irvine, Does Canada Need a New Electoral System? Kingston (Ontario), 1979.
+
+(4) Voir, par exemple, William P. Irvine, «A Review and Evaluation of Electoral Reform Proposals», dans Peter Aucoin (éd.), Institutional Reforms for Representative Government, volume 38 de la collection d'études, Commission royale d'enquête sur l'union économique et les perspectives de développement, Toronto, Presses de l'Université de Toronto, 1985, p. 71 à 109. M. Irvine donne une vue d'ensemble des différents types de systèmes électoraux proposés pour le Canada.
+
+(5) Le Comité mixte spécial sur le renouvellement du Canada (le Comité Beaudoin-Dobbie) a recommandé que les sénateurs soient élus à la représentation proportionnelle. L'Accord de Charlottetown qui a suivi précisait simplement que les sénateurs seraient élus (soit par les habitants des provinces, soit par leurs assemblées élues), sans toutefois préciser le système électoral envisagé.
+
+(6) La majorité relative réunit la majorité des suffrages exprimés. La majorité absolue correspond à 50 p. 100 des voix, plus une.
+
+(7) Au Canada, par exemple, l'Assemblée de l'Île-du-Prince Édouard compte 32 députés élus dans 16 circonscriptions.
+
+(8) Thomas T. Mackie et Richard Rose, The International Almanac of Electoral History, 3e édition, Londres, Macmillan, 1991, p. 503.
+
+(9) Dans certains cas, comme en Israël, un pays tout entier peut être considéré comme une seule circonscription électorale lorsque la consultation se fait dans le cadre de la RP.
+
+(10) Le faible seuil exigé en Israël a été critiqué, du fait qu'il favorise la naissance d'une multiplicité de petits partis, dont la plupart n'ont guère de difficulté à obtenir des sièges. Il se forme alors un gouvernement de coalition au sein duquel de petits partis marginaux jouissent d'une influence qui risque d'être disproportionnée par rapport à l'appui dont ils ont bénéficié pendant les élections.
+
+(11) L'Allemagne a adopté ces modalités à la suite de l'expérience qui l'a amenée à la Seconde Guerre mondiale; l'établissement de seuils élevés visait à éviter l'apparition de petits partis extrémistes.
+
+(12) Enid Lakeman, How Democracies Vote : A Study of Electoral Systems, Londres, Faber and Faber, 1974, p. 28.
+
+(13) Nouvelle-Zélande, Electoral Referendum Panel, The Guide to the Electoral Referendum, Wellington, 1992, p. 4.
+
+(14) André Blais, «The Debate over Electoral Systems,» International Political Science Review, Vol. 12, No 3, 1991, p. 240.
+
+(15) Ibid., p. 241. Se fondant sur des recherches antérieures, M. Blais signale que 72 p. 100 des élections tenues dans un système uninominal donnent lieu à l'élection d'un gouvernement formé d'un seul parti au Parlement, comparativement à 10 p. 100 lorsque les élections se tiennent dans des systèmes de RP. Il précise également qu'il y a 40 p. 100 plus de chances d'assister à la formation d'un gouvernement majoritaire formé d'un seul parti dans un scrutin majoritaire qu'à la suite d'une élection à la proportionnelle.
+
+(16) Voir, par exemple, Cairns (1968). Selon M. Cairns, le scrutin uninominal au Canada, qui permet l'élection de gouvernements majoritaires stables donne des résultats «médiocres». Selon lui, dans l'intérêt de la démocratie, il vaut mieux avoir des gouvernements minoritaires, car ceux-ci doivent composer avec une gamme plus large d'opinions pour réaliser leurs programmes législatifs.
+
+(17) Lakeman (1974), p. 57 (traduction).
+
+(18) William P. Irvine, Does Canada Need a New Electoral System? Kingston (Ontario), Institute of Intergovernmental Affairs, Université Queen's, 1979, p. 11 (traduction).
+
+(19) Cairns (1968), p. 57.
+
+(20) Blais (1991), p. 246.
+
+(21) Ibid., p. 247. M. Blais signale qu'en France, en 1968, les Gaullistes ont formé un gouvernement avec 60 p. 100 des sièges à l'Assemblée nationale alors qu'ils n'avaient recueilli que 36 p. 100 des suffrages exprimés. La même situation s'est reproduite en France, aux élections législatives de mars 1993, lorsque les formations de droite ont recueilli 39 p. 100 des suffrages et remporté 80 p. 100 des sièges. Le Front national, appuyé par 12,5 p. 100 des électeurs, n'a remporté aucun siège.
+
+(22) Ibid. M. Blais constate que le nombre de sièges alloué aux partis extrémistes est le plus faible dans les systèmes à scrutin majoritaire uninominal à majorité absolue, soit en général de 8 points de moins que dans les systèmes de RP et de 2 points de moins que dans les systèmes à scrutin majoritaire uninominal et plurinominal.
+
+(23) Voir, par exemple, Douglas W. Raie, The Political Consequences of Electoral Laws, Yale University Press, 1967, p. 96 et 97, et Arend Lipjhart, «Degrees of Proportionality of Proportional Representation Systems», dans Bernard Grofman et Arend Lipjhart (éd.), Electoral Laws and their Political Consequences, Agathon Press, 1986, p. 170.
+
+(24) Mackie et Rose (1991) ont établi un Indice de proportionnalité permettant d'évaluer les systèmes électoraux en usage dans 25 pays. Ils ont calculé cet indice en additionnant la différence entre le pourcentage de sièges auquel chaque parti avait droit et la part des suffrages qu'il avait obtenue, en divisant ce chiffre par deux et en soustrayant le résultat ainsi obtenu de 100. Ils ont constaté que dans les sytèmes de RP, l'indice de proportionnalité allait de 87 p. 100 (Espagne) à 100 p. 100 (Malte). Dans les systèmes majoritaires, les résultats se situaient entre 79 p. 100 (Royaume-Uni) et 94 p. 100 (Congrès américain). Les résultats qu'ils ont obtenus ont révélé qu'en moyenne les systèmes de RP ont une plus grande proportionnalité que les systèmes majoritaires (94 p. 100 comparativement à 86 p. 100). Par contre, dans certains systèmes majoritaires, il est empiriquement possible (comme le signalent les auteurs) d'obtenir une plus grande proportionnalité que dans certains systèmes de RP. Ainsi, le système utilisé pour l'élection du Congrès américain donne un résultat plus élevé que le système électoral espagnol, ce qui peut être plus le fait du nombre de partis qui briguent les suffrages dans ce pays que de la structure du système électoral. Lorsqu'un scrutin majoritaire se déroule dans un système bipartite, comme c'est le cas pour les élections au Congrès américain, la répartition des sièges sera à peu près proportionnelle au nombre de voix. Cependant, lorsque plusieurs partis sont en lice dans un système majoritaire, le degré de proportionnalité s'effrite nécessairement.
+
+(25) Arend Lijphart, «The Political Consequences of Electoral Laws, 1945-1985», American Political Science Review, vol. 84, no 2, juin 1990, p. 481 à 496. Lijphart fait valoir que la proportionnalité dépend des quotients et des diviseurs utilisés pour la répartition des sièges. Dans son analyse, il montre que dans les systèmes où l'on a recours au procédé de la plus forte moyenne pour la répartition des sièges (dans lequel on se sert de diviseurs), la méthode de Sainte-Laguë donne des résultats fort proches de la proportionnalité, alors que la version modifiée de cette méthode donne de moins bons résultats et que ceux obtenus dans le système de d'Hondt sont encore moins bons. Dans la méthode des plus forts restes, le quotient de Hare tend à produire des résultats assez proportionnels, alors que les quotients de Droop et d'Imperiali donnent une proportionnalité plus faible. Dans l'ensemble, le système de d'Hondt est réputé être celui qui donne les résultats les moins proportionnels, alors que la méthode de la plus forte moyenne de Sainte-Laguë et le procédé des plus forts restes avec un quotient de Hare donnent la plus grande proportionnalité. M. Lijphart fonde son évaluation sur la mesure dans laquelle les formules traitent indifféremment les petits et les grands partis.
+
+(26) Canada, Commission royale sur la réforme électorale et le financement des partis, Pour une démocratie électorale renouvelée, vol. 1, Ottawa, 1991, p. 20.
+
+(27) Le politologue G. Bingham Powell Jr. nous apprend que la participation électorale est de l'ordre de 78 p. 100 dans les systèmes de RP et de 71 p. 100 à peine dans les systèmes majoritaires. Il précise, cependant, qu'une partie de cette différence peut s'expliquer du fait que, parfois, dans les systèmes de RP, l'inscription est facilitée et le vote est obligatoire. Voir Voting Turnout in Thirty Democracies, Richard Rose (éd.), Electoral Participation: A Comparative Analysis, Beverly Hills, Sage Publications, 1980, p. 12.
+
+(28) Ibid., p. 18 (traduction).
+
+(29) Blais, (1991) cependant, à la p. 249, fait remarquer que pour des raisons démocratiques, «[...] plus on trouvera de renseignements sur les intentions de vote des électeurs, meilleure sera la procédure». À cet égard, on peut dire que les suffrages exprimés dans un système de RP servent mieux la démocratie parce qu'ils indiquent une gamme plus diversifiée de préférences.
+
+(30) En Italie, par exemple, les démocrates-chrétiens ont dominé chacun des 51 gouvernements de coalition qui ont été formés depuis la Seconde Guerre mondiale.
+
+(31) Lakeman (1974), p. 129.
+
+(32) Blais (1991), p. 248 et 249.
+
+(33) Lakeman (1974) estime, pour sa part, que les systèmes de vote préférentiel ne sont pas trop complexes pour la moyenne des électeurs. Selon lui, on n'a pas pu prouver qu'il existe un rapport entre le nombre de bulletins de vote détériorés et le vote préférentiel.
+
+(34) Globe and Mail (Toronto), 19 avril 1993, p. A7.
+
+(35) Robert J. Jackson et Doreen Jackson, Politics in Canada, 2e édition, Scarborough (Ontario), Prentice-Hall Canada Ltd., 1990, p. 501 (traduction).
+
